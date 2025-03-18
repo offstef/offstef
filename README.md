@@ -51,7 +51,7 @@
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 [SUMMARY]
-Young and versatile developer focussed on cibersecurity, malware analysis, LLMs,
+Young and versatile developer focussed on cybersecurity, malware analysis, LLMs,
 Web Development (NextJS enjoyer).
 
 
