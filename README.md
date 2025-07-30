@@ -51,7 +51,7 @@
                 
                 [SUMMARY]
                 Young and versatile developer focussed on cybersecurity, malware analysis, LLMs,
-                Web Development (NextJS enjoyer).
+                Web Development, and Rust.
                 
                 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
                 ┃ 📁 HEX 0x01                    PROJECTS                                      ┃
